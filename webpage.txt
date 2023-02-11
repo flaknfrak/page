@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="C:\Users\bottom3\Desktop\python\page\cryptoservicefadein.css">
+  </head>
+  <body>
+    <div class="cryptoservice">
+      <span>c</span>
+      <span>r</span>
+      <span>y</span>
+      <span>p</span>
+      <span>t</span>
+      <span>o</span>
+      <span>s</span>
+      <span>e</span>
+      <span>r</span>
+      <span>v</span>
+      <span>i</span>
+      <span>c</span>
+      <span>e</span>
+    </div>
+  </body>
+</html>
