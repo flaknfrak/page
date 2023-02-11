@@ -1,4 +1,0 @@
-var container = document.querySelector('.container');
-container.addEventListener('click', function() {
-location.href='https://www.encirca.com/handshake-cryptoadventures/';
-  });
